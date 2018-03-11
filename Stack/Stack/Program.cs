@@ -73,12 +73,6 @@ namespace Stack
             {
                 Console.WriteLine(c.Number + " " + c.Suit);
             }
-
-            
-
-            
-
-
         }
     }
 }
